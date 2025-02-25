@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1 className='font-bold text-2xl w-full h-full'>Vite + React</h1>
+      <h1 className='font-bold text-5xl w-full h-full'>Vite + React</h1>
       <div className="card font-bold animate-bounce">        
         <p>
           부산대학교 KDT 1기 강준혁
