@@ -1,4 +1,5 @@
-import MyClock from "./02/MyClock.jsx"
+// import MyClock from "./02/MyClock.jsx"
+import MyDiv1 from './03/MyDiv1.jsx';
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import { FaHome } from "react-icons/fa";
@@ -25,7 +26,8 @@ function App() {
                       flex flex-col justify-start items-center
                       overflow-y-auto">
 
-        <MyClock/> 
+        {/* <MyClock/>  */}
+        <MyDiv1/>
       </main>
       <footer className="w-full min-h-20 bg-amber-900
                          px-10 text-md text-amber-50 font-bold
